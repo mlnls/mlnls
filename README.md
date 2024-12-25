@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Mlnls Github .... ❤︎</h1>
+  <h1>mlnls Github .... ❤︎</h1>
 </div>
 
 <div align="center">
