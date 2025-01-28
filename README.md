@@ -4,6 +4,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mlnls&show_icons=true&theme=tokyonight" />
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlnls&theme=react-dark&bg_color=20232a&hide_border=true&line=D7C3F1&color=D7C3F1" width=94%/>
+  </a>
 </div>
 <div align="center">
 <h3>Tech Stack</h3>
@@ -29,12 +32,5 @@
   </a>
   <a href="mailto:osm45608@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlnls&theme=react-dark&bg_color=20232a&hide_border=true&line=D7C3F1&color=D7C3F1" width=94%/>
   </a>
 </div>
