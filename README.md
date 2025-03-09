@@ -3,12 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlnls&show_icons=true&theme=tokyonight" />
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlnls&theme=react-dark&bg_color=20232a&hide_border=true&line=D7C3F1&color=D7C3F1" width=94%/>
-  </a>
-</div>
-<div align="center">
 <h3>Tech Stack</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
