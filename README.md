@@ -1,34 +1,82 @@
-<div align="center">
-  <h1>mlnls Github .... ❤︎</h1>
-</div>
+<!-- 프로필 README 예시 for mlnls -->
 
-<div align="center">
-<h3>Tech Stack</h3>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-components" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" />
-  <br />
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white" alt="TypeScript"/> 
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>  
-  <img src="https://img.shields.io/badge/TailwindCSS-1572B6?style=for-the-badge&logo=TailwindCSS&logoColor=white" alt="TailwindCSS" />
-</div>
-<div align="center">
+<h1 align="center">👋 Hi there, I'm <strong>mlnls</strong></h1>
 
-<h3>🛠 Tools</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" />
-</div>
-<div align="center">
+<p align="center">
+  <strong>Frontend Developer</strong> who loves clean UI, predictable code, and good DX.  
+  FE를 중심으로, 필요하다면 백엔드와 인프라까지 함께 다룹니다.
+</p>
 
-<h3>📫 Contact</h3>
-  <a href="https://velog.io/@mlnls" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog" />
-  </a>
-  <a href="mailto:osm45608@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
+<br/>
+
+---
+
+### ✨ About Me
+
+- 🧩 JavaScript & React 생태계를 좋아합니다.
+- 📚 새로운 기술을 공부하고, 작은 실험 프로젝트를 자주 만듭니다.
+- 🤝 협업 도구(Slack, Notion, Figma)를 적극적으로 활용하는 편입니다.
+- 💡 “읽기 쉬운 코드”와 “예측 가능한 UI”를 지향합니다.
+
+<br/>
+
+---
+
+### 🖥 Frontend (FE)
+
+- **Language & Frameworks**
+  - JavaScript (ES6+)
+  - React
+  - Next.js
+
+- **Styling**
+  - Tailwind CSS  
+  - styled-components
+
+<br/>
+
+---
+
+### 🛠 Tech & Backend
+
+- **Languages**
+  - Node.js
+  - C / C++
+  - Python
+
+- **Tools & Workflow**
+  - Docker
+  - Postman
+
+<br/>
+
+---
+
+### 📚 Collaboration & Design
+
+- Slack
+- Notion
+- Figma
+
+<br/>
+
+---
+
+### 📌 What I'm focusing on
+
+- ⚛️ React & Next.js 기반 서비스 구조 개선
+- 🎨 TailwindCSS + styled-components로 재사용 가능한 UI 컴포넌트 설계
+- 🧪 작은 사이드 프로젝트로 FE/BE 실험 및 아키텍처 연습
+
+<br/>
+
+---
+
+### 🌱 Currently
+
+- 새로운 기술 스택을 프로젝트에 적용해 보면서  
+  “실무에 바로 쓸 수 있는 코드”를 목표로 공부 중입니다.
+
+<br/>
+
+<!-- 필요하면 여기에 GitHub stats, 방문자 수 뱃지 등 추가 -->
