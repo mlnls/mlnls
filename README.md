@@ -32,16 +32,14 @@
 
 ### 📝 Projects
 
-- **Enjoy-Soft** | `2026.03`
-  - https://github.com/mlnls/Jeju-Dream
-  - https://jejuyouthdream.com
+- **Jeju-Dream** | `2026.03`
+  - [Github Repo](https://github.com/mlnls/Jeju-Dream)
 
 - **Enjoy-Soft** | `2026.01`
-  - https://github.com/mlnls/enjoy-soft
-  - https://www.enjoysoft.net
+  - [Github Repo](https://github.com/mlnls/enjoy-soft)
 
 - **좋아하면 숭리는** | *숭실대학교 대동제 위치기반 매칭 서비스* | `2025.09`
-  - https://github.com/LoveSoongAlarm/love-soong-alarm-Web
+  - [Github Repo](https://github.com/LoveSoongAlarm/love-soong-alarm-Web)
 
 - **DANTHIS** | *Dance This Moment* | `2025.02`
-  - https://github.com/UMC-7th-DANTHIS/frontend
+  - [Github Repo](https://github.com/UMC-7th-DANTHIS/frontend)
