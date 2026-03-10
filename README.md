@@ -1,82 +1,47 @@
-<!-- 프로필 README 예시 for mlnls -->
-
 <h1 align="center">👋 Hi there, I'm <strong>mlnls</strong></h1>
 
-<p align="center">
-  <strong>Frontend Developer</strong> who loves clean UI, predictable code, and good DX.  
-  FE를 중심으로, 필요하다면 백엔드와 인프라까지 함께 다룹니다.
-</p>
+
+### 💼 Career
+
+**Depromeet** | *Web Challenger* | `2026.03 - Present`
+
+**(주)벽촌** | *Frontend Developer* | `2025.06 - Present`
+
+**숭실대학교** | *Software* | `2020.02 - Present`
+
+**SSUMC** | *8th Vice Leader* | `2025.02 - 2025.08`
+
+**SSUMC** | *7th Web Challenger* | `2024.09 - 2025.02`
 
 <br/>
 
----
 
-### ✨ About Me
+### 🏆 Awards
 
-- 🧩 JavaScript & React 생태계를 좋아합니다.
-- 📚 새로운 기술을 공부하고, 작은 실험 프로젝트를 자주 만듭니다.
-- 🤝 협업 도구(Slack, Notion, Figma)를 적극적으로 활용하는 편입니다.
-- 💡 “읽기 쉬운 코드”와 “예측 가능한 UI”를 지향합니다.
+- **소프트웨어 공모전** | *우수상* | `2025.08`
+  - SSSP ( Frontend )
 
 <br/>
 
----
 
-### 🖥 Frontend (FE)
+### 📜 Certificates
 
-- **Language & Frameworks**
-  - JavaScript (ES6+)
-  - React
-  - Next.js
-
-- **Styling**
-  - Tailwind CSS  
-  - styled-components
+- **정보처리기사** | *한국산업인력공단* | `2025.09`
 
 <br/>
 
----
+### 📝 Projects
 
-### 🛠 Tech & Backend
+- **Enjoy-Soft** | `2026.03`
+  - https://github.com/mlnls/Jeju-Dream
+  - https://jejuyouthdream.com
 
-- **Languages**
-  - Node.js
-  - C / C++
-  - Python
+- **Enjoy-Soft** | `2026.01`
+  - https://github.com/mlnls/enjoy-soft
+  - https://www.enjoysoft.net
 
-- **Tools & Workflow**
-  - Docker
-  - Postman
+- **좋아하면 숭리는** | *숭실대학교 대동제 위치기반 매칭 서비스* | `2025.09`
+  - https://github.com/LoveSoongAlarm/love-soong-alarm-Web
 
-<br/>
-
----
-
-### 📚 Collaboration & Design
-
-- Slack
-- Notion
-- Figma
-
-<br/>
-
----
-
-### 📌 What I'm focusing on
-
-- ⚛️ React & Next.js 기반 서비스 구조 개선
-- 🎨 TailwindCSS + styled-components로 재사용 가능한 UI 컴포넌트 설계
-- 🧪 작은 사이드 프로젝트로 FE/BE 실험 및 아키텍처 연습
-
-<br/>
-
----
-
-### 🌱 Currently
-
-- 새로운 기술 스택을 프로젝트에 적용해 보면서  
-  “실무에 바로 쓸 수 있는 코드”를 목표로 공부 중입니다.
-
-<br/>
-
-<!-- 필요하면 여기에 GitHub stats, 방문자 수 뱃지 등 추가 -->
+- **DANTHIS** | *Dance This Moment* | `2025.02`
+  - https://github.com/UMC-7th-DANTHIS/frontend
