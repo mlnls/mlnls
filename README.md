@@ -38,7 +38,7 @@
 - **Enjoy-Soft** | `2026.01`
   - [Github Repo](https://github.com/mlnls/enjoy-soft)
 
-- **좋아하면 숭리는** | *숭실대학교 대동제 위치기반 매칭 서비스* | `2025.09`
+- **[좋아하면 숭리는](https://www.instagram.com/love_soong_alarm/)** | *숭실대학교 대동제 위치기반 매칭 서비스* | `2025.09`
   - [Github Repo](https://github.com/LoveSoongAlarm/love-soong-alarm-Web)
 
 - **DANTHIS** | *Dance This Moment* | `2025.02`
