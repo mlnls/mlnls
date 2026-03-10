@@ -3,7 +3,7 @@
 
 ### 💼 Career
 
-**Depromeet** | *Web Challenger* | `2026.03 - Present`
+**Depromeet** | *18th Web Challenger* | `2026.03 - Present`
 
 **(주)벽촌** | *Frontend Developer* | `2025.06 - Present`
 
