@@ -3,7 +3,7 @@
 
 ### 💼 Career
 
-**Depromeet** | *18th Web Challenger* | `2026.03 - Present`
+**Depromeet** | *18th Web Challenger* | `2026.03 - 2026.06`
 
 **[(주)벽촌](https://www.byuckchon.com/)** | *Frontend Developer* | `2025.06 - Present`
 
