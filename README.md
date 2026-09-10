@@ -1,6 +1,3 @@
-<h1 align="center">👋 Hi there, I'm <strong>mlnls</strong></h1>
-
-
 ### 💼 Career
 
 **Depromeet** | *18th Web Challenger* | `2026.03 - 2026.06`
@@ -15,31 +12,6 @@
 
 <br/>
 
-
-### 🏆 Awards
-
-- **소프트웨어 공모전** | *우수상* | `2025.08`
-  - SSSP ( Frontend )
-
-<br/>
-
-
 ### 📜 Certificates
 
 - **정보처리기사** | *한국산업인력공단* | `2025.09`
-
-<br/>
-
-### 📝 Projects
-
-- **Jeju-Dream** | `2026.03`
-  - [Github Repo](https://github.com/mlnls/Jeju-Dream)
-
-- **Enjoy-Soft** | `2026.01`
-  - [Github Repo](https://github.com/mlnls/enjoy-soft)
-
-- **[좋아하면 숭리는](https://www.instagram.com/love_soong_alarm/)** | *숭실대학교 대동제 위치기반 매칭 서비스* | `2025.09`
-  - [Github Repo](https://github.com/LoveSoongAlarm/love-soong-alarm-Web)
-
-- **DANTHIS** | *Dance This Moment* | `2025.02`
-  - [Github Repo](https://github.com/UMC-7th-DANTHIS/frontend)
