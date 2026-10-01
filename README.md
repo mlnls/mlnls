@@ -14,4 +14,4 @@
 
 ### 📜 Certificates
 
-- **Engineer Information Processing** | *Human Resources Development Service of Korea* | `2025.09`
+**Engineer Information Processing** | *Human Resources Development Service of Korea* | `2025.09`
