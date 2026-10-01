@@ -1,6 +1,6 @@
 ### 💼 Career
 
-**[Depromeet](https://github.com/depromeet#:~:text=%F0%9F%96%A5%20Web-,Frontend,-Developer%20%F0%9F%96%A5)** | *18th Web Challenger* | `2026.03 - 2026.06`
+**[Depromeet](https://github.com/depromeet#:~:text=%EC%8B%A0%ED%98%84%EC%A7%84-,%EC%98%A4%EC%8A%B9%EB%AF%BC,-%EC%9C%A4%EB%82%98%EA%B2%BD)** | *18th Web Challenger* | `2026.03 - 2026.06`
 
 **[Byuckchon](https://www.byuckchon.com/)** | *Frontend Developer* | `2025.06 - Present`
 
