@@ -4,7 +4,7 @@
 
 **[(주)벽촌](https://www.byuckchon.com/)** | *Frontend Developer* | `2025.06 - Present`
 
-**숭실대학교** | *Software* | `2020.02 - Present`
+**숭실대학교** | *B.S. in Software (Expected 2027.02)* | `2020.02 - 2027.02`
 
 **[SSUMC](https://www.instagram.com/p/DNInfn3ylmE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)** | *8th Vice Leader* | `2025.02 - 2025.08`
 
